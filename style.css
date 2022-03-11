@@ -1,3 +1,4 @@
+
 p{
   color:white;
 }
@@ -30,6 +31,7 @@ body {
   position: relative;
   }
   .bubbles h1 {
+    font-size: 25px;
   position: relative;
   margin: 1em 0 0;
   font-family: 'Luckiest Guy', cursive;
@@ -883,7 +885,7 @@ svg {
 body {
   color: #000000;
   font-size:17px;
-  font-family:Bradley Hand, cursive;
+  font-family:Comic Sans MS, Comic Sans, cursive;
   
 }
 
@@ -897,3 +899,4 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+
